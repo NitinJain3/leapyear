@@ -1,4 +1,4 @@
-print("Welcome to the leap year check tool")
+print("Welcome to the leap year check calculator")
 year = int(input("Please enter the year"))
 # print(type(year))
 if year % 4 == 0:
